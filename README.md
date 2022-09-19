@@ -1,10 +1,5 @@
 <h1>Olá, sou o Matheus Dias</h1>
 
-- 🔭 Trabalho com Qualidade, mais especificamente auditando os produtos do site da empresa
-- 🌱 Estudando Analise e desenvolvimento de sistemas
-- 📫 Contate-me no email: matheusdias78@live.com
-- 😄 Pronouns: ele/dele
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathydias&show_icons=true&theme=radical) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathydias&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
